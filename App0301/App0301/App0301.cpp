@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
 	cout << "Hello World!\n\n";
+	cout << "This is an addition made by a collaborator.\n\n";
 	system("pause");
 	return 0;
 }
