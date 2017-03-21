@@ -13,7 +13,7 @@ int main()
 	cin >> x;
 	cout << "\nThe number is: " << x << endl << endl;
 
-	system("pause");
+	system("pause"); 
 	return 0;
 }
 
